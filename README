@@ -1,0 +1,11 @@
+CloneInsta:
+
+A simple instagram clone, which allows the user to 
+
+1. signup(either using email and password or Google) 
+2. login
+3. Post pictures with small description
+4. Scroll through feed, to see others post
+5. Like a post
+
+It uses Firebase as for authentication, as database and for storage. 
